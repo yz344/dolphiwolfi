@@ -4,16 +4,19 @@
 
 ## 1. Introduction
 
-The website dolphiwolfi.com is named after the pen name of Yuchang Zhou, who is a graphic designer and illustrator active on the internet. This website will serve as a personal website of dolphiwolfi, which will include dolphiwolfi's basic information and works. In conclusion, it will work as both a resume and a portfolio. Additionally, it will provide information about her works in sale.
+The website dolphiwolfi.com is named after the pen name of Yuchang Zhou, who is a graphic designer and illustrator active on the internet. This website will serve as a personal website of dolphiwolfi, which will include dolphiwolfi's basic information and works. In conclusion, it will work as both a resume and a portfolio. Additionally, it will provide information about her works on sale.
 
 Below is the general sections of dolphiwolfi.com:
 1. Index
 2. Biography
-3. Past design
-4. Past illustration
-5. 
-
-
+3. Design
+4. Illustration
+5. Articles and posts
+6. Projects
+7. Presents and specials
+8. Goods on sale
+9. Links
+10. Contact
 
 ## 2. Sketches
 
