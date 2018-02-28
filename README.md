@@ -11,14 +11,24 @@ Below is the general sections of dolphiwolfi.com:
 2. Biography
 3. Design
 4. Illustration
-5. Articles and posts
+5. Articles
 6. Projects
 7. Presents and specials
 8. Goods on sale
 9. Links
 10. Contact
 
-## 2. Sketches
+## 2. Component Design Documentation
+
+### 2.1 Index
+
+1. Navigation bar
+2. A impressive background picture
+3. 
+
+
+
+## 3. Sketches
 
 [2. Create some sketches to generate ideas about a website design that would work for your persona.]
 
