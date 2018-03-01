@@ -24,7 +24,10 @@ Below is the general sections of dolphiwolfi.com:
 
 1. Navigation bar
 2. A impressive background picture
-3. 
+3. Title including name and a sentence
+4. Big button directing to most important part of websites
+
+### 2.2 
 
 
 
